@@ -30,9 +30,14 @@
 			}
 		]
 	},
+	"homepage": "https://github.com/d3vr/tag-search",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/d3vr/tag-search.git"
+	},
+	"bugs": {
+		"url": "https://github.com/d3vr/tag-search/issues",
+		"email": "fm+tagsearch@mitidji.com"
 	},
 	"scripts": {
 		"lint": "eslint .",

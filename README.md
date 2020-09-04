@@ -2,6 +2,9 @@
 
 VS Code extension that provides helper commands to find notes with all or some of the tags you specify.
 
+## Installation
+You can install the extension via the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=d3vr.tag-search).
+
 ## Motivation
 This extension was created to help scratch an itch with using [Dendron](https://github.com/dendronhq/dendron). When using tags in notes, there's no convenient helper/feature to quickly find notes using the same tag (at the time of writing this extension).
 So this extension provides two commands `tag-search.findSomeTags` and `tag-search.findAllTags`, which prompt the user for a comma separated list of tags and open the VS Code search editor for you with the `query` and `includes` fields prefilled.
